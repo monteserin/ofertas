@@ -7,6 +7,10 @@ https://www.linkedin.com/jobs/view/front-end-developer-html-css-js-at-leadtech-g
 https://www.linkedin.com/jobs/view/programador-a-junior-sin-experiencia-at-deloitte-espa%C3%B1a-1193610758/?originalSubdomain=es
 
 
+<<<<<<< HEAD
 el amor mola
 
 hola hola
+=======
+el amor mola, no tanto... :/
+>>>>>>> 473f9c3022e80e325848006583d1d280852ee351
